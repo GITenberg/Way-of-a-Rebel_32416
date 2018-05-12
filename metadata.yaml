@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33738
     wikipedia: http://en.wikipedia.org/wiki/Walter_M._Miller,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32416#Way-of-a-Rebel
 gutenberg_issued: '2010-05-18'
 gutenberg_type: Text
 identifiers:
